@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T11:10:05.967Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="EH-2V4kMk2hXSaHc2KP5" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T11:12:13.806Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="EJbXpcJbQ1_LQ4XTiNRC" version="21.7.5" type="github">
   <diagram name="第 1 页" id="dxcAa4W-SWLmKXKb0Hz-">
     <mxGraphModel dx="2021" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
             <mxPoint x="335" y="-1009" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="29SdABc7wkxVLyjIRv6X-73" value="V1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="29SdABc7wkxVLyjIRv6X-55">
+        <mxCell id="29SdABc7wkxVLyjIRv6X-73" value="电信线路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="29SdABc7wkxVLyjIRv6X-55">
           <mxGeometry x="0.2717" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -105,7 +105,7 @@
             <mxPoint x="376" y="-1009" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="29SdABc7wkxVLyjIRv6X-74" value="V2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="29SdABc7wkxVLyjIRv6X-57">
+        <mxCell id="29SdABc7wkxVLyjIRv6X-74" value="移动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="29SdABc7wkxVLyjIRv6X-57">
           <mxGeometry x="0.2659" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -116,9 +116,9 @@
             <mxPoint x="418" y="-1011" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="29SdABc7wkxVLyjIRv6X-75" value="V3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="29SdABc7wkxVLyjIRv6X-58">
+        <mxCell id="29SdABc7wkxVLyjIRv6X-75" value="联通线路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="29SdABc7wkxVLyjIRv6X-58">
           <mxGeometry x="0.2983" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="29SdABc7wkxVLyjIRv6X-59" value="VPN1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -142,10 +142,25 @@
             <mxPoint x="507.5" y="-1009" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="29SdABc7wkxVLyjIRv6X-76" value="V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="29SdABc7wkxVLyjIRv6X-64">
+          <mxGeometry x="0.3261" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29SdABc7wkxVLyjIRv6X-77" value="电信线路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="29SdABc7wkxVLyjIRv6X-64">
+          <mxGeometry x="0.3152" y="-7" relative="1" as="geometry">
+            <mxPoint x="-8" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="29SdABc7wkxVLyjIRv6X-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="547.5" y="-826" as="sourcePoint" />
             <mxPoint x="548.5" y="-1009" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29SdABc7wkxVLyjIRv6X-78" value="移动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="29SdABc7wkxVLyjIRv6X-65">
+          <mxGeometry x="0.2568" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="29SdABc7wkxVLyjIRv6X-67" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.192;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -154,10 +169,20 @@
             <mxPoint x="682.5" y="-1009" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="29SdABc7wkxVLyjIRv6X-80" value="电信线路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="29SdABc7wkxVLyjIRv6X-67">
+          <mxGeometry x="0.2935" y="2" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="29SdABc7wkxVLyjIRv6X-68" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="722.5" y="-826" as="sourcePoint" />
             <mxPoint x="723.5" y="-1009" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29SdABc7wkxVLyjIRv6X-81" value="移动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="29SdABc7wkxVLyjIRv6X-68">
+          <mxGeometry x="0.2897" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="29SdABc7wkxVLyjIRv6X-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -166,10 +191,20 @@
             <mxPoint x="763.5" y="-1009" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="29SdABc7wkxVLyjIRv6X-82" value="联通线路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="29SdABc7wkxVLyjIRv6X-70">
+          <mxGeometry x="0.2459" relative="1" as="geometry">
+            <mxPoint x="3" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="29SdABc7wkxVLyjIRv6X-71" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="-826.5" as="sourcePoint" />
             <mxPoint x="591" y="-1009.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29SdABc7wkxVLyjIRv6X-79" value="联通线路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="29SdABc7wkxVLyjIRv6X-71">
+          <mxGeometry x="0.2841" y="1" relative="1" as="geometry">
+            <mxPoint x="2" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
