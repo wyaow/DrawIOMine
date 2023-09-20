@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T11:46:49.995Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ky4n4DAPu0nCaoh0PSi6" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T11:48:02.360Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yqCZ2P8_zlHLS2sSuU5m" version="21.7.5" type="github">
   <diagram name="第 1 页" id="dxcAa4W-SWLmKXKb0Hz-">
     <mxGraphModel dx="2233" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="257" y="-1120" width="290" height="133" as="geometry" />
         </mxCell>
         <mxCell id="29SdABc7wkxVLyjIRv6X-90" value="阿里云" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="285" y="-995" width="220" height="144" as="geometry" />
+          <mxGeometry x="285" y="-994" width="220" height="144" as="geometry" />
         </mxCell>
         <mxCell id="29SdABc7wkxVLyjIRv6X-89" value="阿里云" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="482" y="-994" width="205" height="138" as="geometry" />
+          <mxGeometry x="483" y="-999" width="216" height="148" as="geometry" />
         </mxCell>
         <mxCell id="29SdABc7wkxVLyjIRv6X-83" value="阿里云" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="-988" width="200" height="131" as="geometry" />
+          <mxGeometry x="110" y="-990" width="200" height="138" as="geometry" />
         </mxCell>
         <mxCell id="29SdABc7wkxVLyjIRv6X-35" value="&lt;font color=&quot;#ef0b0b&quot; style=&quot;font-size: 16px;&quot;&gt;SD-WAN设备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="122" y="-780" width="560" height="98" as="geometry" />
