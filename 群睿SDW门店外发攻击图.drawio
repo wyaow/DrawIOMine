@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T11:17:41.712Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_xgAheb0CP3emeYizgQT" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T11:18:04.132Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="mBUj_SI7k_cdySqNYKcn" version="21.7.5" type="github">
   <diagram name="第 1 页" id="dxcAa4W-SWLmKXKb0Hz-">
     <mxGraphModel dx="1781" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,10 +133,10 @@
         <mxCell id="29SdABc7wkxVLyjIRv6X-59" value="VPN1&lt;br&gt;线路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-736.5" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="29SdABc7wkxVLyjIRv6X-60" value="W2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="29SdABc7wkxVLyjIRv6X-60" value="W2&lt;br&gt;总头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="-966" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="29SdABc7wkxVLyjIRv6X-61" value="W3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="29SdABc7wkxVLyjIRv6X-61" value="W3&lt;br&gt;总头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="-966" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="29SdABc7wkxVLyjIRv6X-62" value="VPN2&lt;br&gt;线路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
