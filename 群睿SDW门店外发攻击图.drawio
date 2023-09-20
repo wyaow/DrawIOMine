@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T11:17:27.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="fDPXSWKidLJ5Pq6qla26" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T11:17:41.712Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_xgAheb0CP3emeYizgQT" version="21.7.5" type="github">
   <diagram name="第 1 页" id="dxcAa4W-SWLmKXKb0Hz-">
     <mxGraphModel dx="1781" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="29SdABc7wkxVLyjIRv6X-34" value="配置了白名单策略" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3D0D;" vertex="1" parent="1">
           <mxGeometry x="-810" y="-774" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="29SdABc7wkxVLyjIRv6X-40" value="W1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="29SdABc7wkxVLyjIRv6X-40" value="W1&lt;br&gt;总头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-966" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="29SdABc7wkxVLyjIRv6X-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.192;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="29SdABc7wkxVLyjIRv6X-59">
