@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T11:28:06.455Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="6BzZ4fIxX-AIeF5jXn_T" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T11:30:41.197Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="InYITdHawzFqFFMsY6jR" version="21.7.5" type="github">
   <diagram name="第 1 页" id="dxcAa4W-SWLmKXKb0Hz-">
     <mxGraphModel dx="1781" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,6 +245,15 @@
         </mxCell>
         <mxCell id="29SdABc7wkxVLyjIRv6X-98" value="出口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1900;" vertex="1" parent="1">
           <mxGeometry x="560" y="-1017" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="29SdABc7wkxVLyjIRv6X-99" value="深信服的vSD-WAN部署在公有云上" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1900;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-902.75" width="130" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="29SdABc7wkxVLyjIRv6X-100" value="多条VPN线路，VPN1挂了，切到VPN2使用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1900;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-675" width="150" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="29SdABc7wkxVLyjIRv6X-101" value="运营线多链路，多电信挂了自动切移动，&lt;br&gt;或者选择最佳运营商链路" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1900;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-806" width="160" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
